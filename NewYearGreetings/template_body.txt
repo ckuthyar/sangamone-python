@@ -1,0 +1,24 @@
+Dear <name>,
+SangamOne wishes you a very Happy New Year!!!
+May this new year be full of great accomplishments.   
+
+In year 2023, we are offering the following services to our customers
+- Mobile App Development - Flutter, DART for Android and iOS
+- Enterprise Applications - Java, Python, ReactJS, Svelte, MySQL, Postgresql
+- Product Engineering Services - end-to-end Product Development, IoT design
+- Technical Consulting Services - by senior technology experts on need basis
+- Project Management Services - by senior project managers on need basis
+- Amazon AWS Cloud Services - Operations, Support and Maintenance
+- 90-day SangamOne Technical Internship Program for Engineering Students
+- Technical Training - Python with Django or Flask, Cloud Computing, CyberSecurity 
+
+We would be happy to serve you again. Please write to cs@sangamone.com for any requirement.
+
+Thanks and Regards
+- CS
+Chandrashekar Rao Kuthyar
+SangamOne Connected Services
+180, Royal Hermitage, Gottigere,
+Bannergatta Road, Bangalore - 560083, Karnataka, INDIA
++91 9481851276, cs@sangamone.com
+https://www.linkedin.com/in/chandrashekar-rao-kuthyar-9616b32/
